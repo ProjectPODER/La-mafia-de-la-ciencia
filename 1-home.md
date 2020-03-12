@@ -6,10 +6,7 @@ permalink: /
 
 # LA MAFIA DE LA CIENCIA
 
-Gracias a la entidad jurídica: “Foro Consultivo de Ciencia y Tecnología A. C.”, el Dr. José Antonio de la Peña Mena, el Dr. José Luis Fernández Zayas, el Dr. Juan Pedro Laclette, la Dra. Gabriela Dutrénit Bielous, el Dr. José de Jesús Franco López y la Dra. Julia Tagüeña Parga se han beneficiado por más de 16 años con fondos públicos.
-
-
-Algunos de estos personajes ostentan (u ostentaron durante sus coordinaciones) percepciones por 53,850 pesos quincenales, compraron una casa en la colonia Coyoacán con dinero público que administran de manera privada y se adjudicaron funciones propias del Estado. Además, con el objetivo de seguir operando, ahora sostienen una lucha judicial en contra del Consejo Nacional de Ciencia y Tecnología (Conacyt).  
+El Foro Consultivo de Ciencia y Tecnología A. C. fue la vía que utilizó un grupo de académicos para ursurpar funciones del Estado y beneficiarse por más de 16 años con fondos públicos del Consejo Nacional de Ciencia y Tecnología (Conacyt). El dinero se usó para pagar sueldos superiores a los de los gobernadores del país y comprar una casa que administran de manera privada. El caso ahora se encuentra en Tribunales.
 
 [Website version](https://towerbuilder.projectpoder.org/)
 [Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
