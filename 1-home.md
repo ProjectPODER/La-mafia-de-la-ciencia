@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# THIS IS THE FIRST TITLE
+# THIS IS A MODIFICATION
 
 This text is a paragraph.
 This won't be another paragraph, it will join the line above it.
