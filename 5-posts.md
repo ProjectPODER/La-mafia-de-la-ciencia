@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Posts
+title: Otros reportajes
 permalink: /posts/
 ---
 
-# La mafia de la ciencia
+# Otros reportajes
