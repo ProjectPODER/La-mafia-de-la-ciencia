@@ -16,7 +16,7 @@
 title: La mafia de la ciencia
 
 # Logo image
-image: tb-logo.png
+image: logo.png
 
 #Description of your site
 description: >-
@@ -40,12 +40,12 @@ graph:
   # colores de nodos y connectores
   - colours:
       - nodes:
-          - default: '#1ee6d3'
-          - contract: '#1ee6d3'
-          - contractTypes: '#3abdc3'
-          - contractByType: '#438a9c'
-          - organization: '#3c5a6f'
-          - shareholderPerson: '#EB639A'
+          - default: '#FFE700'
+          - contract: '#FFE700'
+          - contractTypes: '#FF9A00'
+          - contractByType: '#d50035'
+          - organization: '#850062'
+          - shareholderPerson: '#9a003e'
       - links:
           - default: '#706F74'
           - contractsTypes: '#706F74'

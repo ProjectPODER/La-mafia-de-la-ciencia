@@ -8,6 +8,8 @@ section#contracts_page {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: bold;
+    font-family: bison;
+    letter-spacing: 2px;
 }
 
 blockquote {
@@ -23,4 +25,17 @@ blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
 
 a {
 	transition: all .35s;
+}
+
+@font-face {
+    font-family: bison;
+    src: url("../assets/font/Bison-Bold.ttf");
+}
+
+.bg-general {
+    background-image: url(../assets/img/bg-content.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }

@@ -12,8 +12,8 @@
     background-size: cover;
 
     h1 {
-        font-size: 70px;
-        line-height: 75px;
+        font-size: 80px;
+        line-height: 85px;
         margin-bottom: 2rem;
         font-weight: bolder;
     }
@@ -53,5 +53,11 @@
         p {
             font-size: 1.4rem;
         }
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1240px;
     }
 }
