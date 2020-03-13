@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: graphic-example1.png
+image: ARTÍCULO_50.png
 ---
 
 # 05 de junio de 2002
