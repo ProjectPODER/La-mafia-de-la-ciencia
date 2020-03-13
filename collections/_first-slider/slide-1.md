@@ -1,5 +1,5 @@
 ---
-title: First Slide
+title: La ley
 image: ARTÍCULO_50.png
 ---
 
