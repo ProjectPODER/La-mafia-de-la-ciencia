@@ -1,8 +1,8 @@
 ---
-title: Slide 4
-image: graphic-example3.png
+title: 27 de marzo de 2015
+image: TAGUEÑA_FONDOS.png
 ---
 
-# THIS IS THE THIRD SLIDE
+# 27 de marzo de 2015
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Siendo secretaria técnica del Conacyt, Julia Tagueña Parga, presentó, aprobó y asignó el convenio de asignación de recursos para el Foro A.C. en el que desde TAL AÑO y todavía  es coordinadora general. En el Comité de Apoyos Institucionales del “Conacyt”, en su sesión celebrada el día 04 de marzo de 2015, mediante el Acuerdo número 5/I/2015 se aprobó la propuesta denominada: “PROGRAMA ANUAL 2015 DEL FORO CONSULTIVO CIENTÍFICO Y TECNOLÓGICO”, que contemplaba entregar 36,000,000 pesos.
