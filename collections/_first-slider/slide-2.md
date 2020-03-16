@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: ACTA.png
+image: ACTA.jpg
 ---
 
 # 27 de septiembre de 2002
