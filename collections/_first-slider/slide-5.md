@@ -1,11 +1,10 @@
 ---
-title: Slide 3
-image: graphic-example3.png
+title: Noviembre y diciembre de 2018
+image: SUELDO_QUINCENA.png
 ---
 
-# THIS IS THE THIRD SLIDE
+# Noviembre y diciembre de 2018
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. 
-Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. 
-Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. 
-In metus velit, finibus et libero nec, tempus aliquam metus.
+La abogada del Foro A.C., Adriana Ramona Guerra Gómez, percibió durante ese periodo 134,625 pesos quincenales; es decir, 269,250 pesos al mes. El sueldo más alto del país lo ostenta el presidente Andrés Manuel López Obrador, quién a penas recibe 108,659 pesos mensuales, por lo que esta académica duplicó las percepciones del máximo mandatario. 
+
+Estos meses no son los correspondientes al aguinaldo pues en el mismo documento se especifica que Guerra Gómez, por alguna razón que no relatan, recibió el monto de 134,600 pesos por concepto de aguinaldo la segunda quincena de junio.
