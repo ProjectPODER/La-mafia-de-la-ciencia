@@ -1,6 +1,6 @@
 ---
 title: 27 de marzo de 2015
-image: TAGUEÑA_FONDOS.png
+image: TAGUEÑA_FONDOS.png
 ---
 
 # 27 de marzo de 2015
