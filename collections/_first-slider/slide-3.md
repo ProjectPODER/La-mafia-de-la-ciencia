@@ -1,6 +1,6 @@
 ---
 title: 16 de junio de 2015
-image: CASA.png
+image: CASA.jpg
 ---
 
 # 16 de junio de 2015
