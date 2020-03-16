@@ -1,8 +1,10 @@
 ---
-title: Slide 3
-image: graphic-example3.png
+title: 29 de julio de 2019
+image: CONACYT_PRONUNCIAMIENTO.png
 ---
 
-# THIS IS THE THIRD SLIDE
+# 29 de julio de 2019
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+El Conacyt emite el comunicado donde denuncia que el Foro Consultivo Científico y Tecnológico A.C. ha “duplicado atribuciones que corresponden al Conacyt, sin que haya mediado solicitud alguna en los términos que mandata la ley aplicable”, tras la denuncia por duplicidad, además se deslinda de haber otorgado autorización para continuar sus operaciones. 
+
+Finalmente, en el mismo documento, el órgano académico anuncia que iniciará una auditoría al Foro A.C. y comentan: “que se analice la necesidad de fiscalizar los recursos públicos federales que administró, manejó y ejerció el Foro Consultivo Científico y Tecnológico, A.C.”, dado que los fondos que fueron entregados por administraciones anteriores, según explican, no se justifican con las leyes aplicables.
