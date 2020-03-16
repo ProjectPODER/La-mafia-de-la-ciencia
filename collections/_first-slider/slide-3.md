@@ -1,8 +1,8 @@
 ---
-title: Slide 3
-image: graphic-example3.png
+title: 16 de junio de 2015
+image: CASA.png
 ---
 
-# THIS IS THE THIRD SLIDE
+# 16 de junio de 2015
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+El Foro Consultivo Científico y Tecnológico A.C. adquirió una casa en casa ubicada en el domicilio Melchor Ocampo, Casa #305 (antes 107), de la delegación Coyoacán en la Ciudad de México. Los fondos con los que adquirieron el inmueble jamas fueron revelados, incluso el dinero de donde obtenían recursos (Fondo F002 y FONIS) no permite que el sea utilizado con ese objetivo.
