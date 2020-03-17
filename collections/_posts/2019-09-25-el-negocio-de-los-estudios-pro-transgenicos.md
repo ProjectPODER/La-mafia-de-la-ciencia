@@ -6,9 +6,7 @@ author: "Ricardo Balderas"
 order: 3
 ---
 
- #El negocio de los estudios protransgénicos
-
- Más de 80 millones de pesos han sido utilizados para promover el desarrollo de la industria de transgénicos en México, a través de estudios que fueron pagados con recursos del Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología (Fondo CIBIOGEM). Así lo reveló un análisis profundo del ejercicio financiero reportado de manera oficial por el Comité del Fondo y el Consejo Nacional de la Ciencia y Tecnología (Conacyt). Empresas como Monsanto son las principales beneficiadas.
+Más de 80 millones de pesos han sido utilizados para promover el desarrollo de la industria de transgénicos en México, a través de estudios que fueron pagados con recursos del Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología (Fondo CIBIOGEM). Así lo reveló un análisis profundo del ejercicio financiero reportado de manera oficial por el Comité del Fondo y el Consejo Nacional de la Ciencia y Tecnología (Conacyt). Empresas como Monsanto son las principales beneficiadas.
 
 Estos datos, a los que tuvo acceso PODER y que fueron corroborados con los investigadores, revelan que los montos asignados a biotecnología y biotecnología agrícola rebasan, por mucho, a los proyectos financiados para la investigación en bioseguridad (investigaciones para prevenir catástrofes ambientales). “Hay un evidente sesgo”, denuncian investigadores.
 
