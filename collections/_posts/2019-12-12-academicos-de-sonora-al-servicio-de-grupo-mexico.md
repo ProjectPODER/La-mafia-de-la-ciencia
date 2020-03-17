@@ -5,13 +5,12 @@ author: "Ricardo Balderas"
 image: UNISON_CŔEDITO_CanalSonora_01.jpg
 order: 4
 ---
- # Académicos de Sonora al servicio de Grupo México
 
 Académicos de la Universidad de Sonora (UNISON) usan recursos patrocinados por el centro académico y la empresa Grupo México, del magnate Germán Larrea, para generar una imagen positiva de la minería en la región, específicamente sobre el derrame de 40,000 metros cúbicos de lixiviados de sulfato de cobre, ocurrido en la mina Buenavista del Cobre en 2014.
 
 Vía Méxicoleaks, este medio de comunicación recibió documentación sobre cómo algunos miembros de la comunidad científica aparecen constantemente apoyando a las empresas mineras y no a las comunidades afectadas. Se trata de Felipe Mora Arellano, Héctor Mendivil Quijada y a Miguel Rangel Medina. Los dos últimos además de su labor en diferentes universidades, hacen negocios con el gobierno.
 
-Rangel Medina trabajó como investigador del departamento de Geología de la UNISON, aunque las percepciones monetarias por ese puesto no aparecen en el registro de transparencia de la universidad 1. Además, posee dos empresas con las que realiza licitaciones públicas: Ideas en Diseño y Maquinados Industriales, S. de R.L. de C.V. (Ideas) e Investigación y Desarrollo de Acuíferos y Ambiente, S.A. de C.V.
+Rangel Medina trabajó como investigador del departamento de Geología de la UNISON, aunque las percepciones monetarias por ese puesto no aparecen en el registro de transparencia de la universidad 1. Además, posee dos empresas con las que realiza licitaciones públicas: Ideas en Diseño y Maquinados Industriales, S. de R.L. de C.V. (Ideas) e *Investigación y Desarrollo de Acuíferos y Ambiente, S.A. de C.V.*
 
 También cobra como persona moral. Con cargo al erario de los sonorenses, Miguel Rangel Medina, doctor de la UNISON, cobró al gobierno local 865,000 pesos para realizar un estudio denominado: “Elaboración de un modelo conceptual de funcionamiento hidrogeológico e hidrogeoquímico y computacional de flujo de las aguas subterráneas del valle de Guaymas, Estado de Sonora”, mismo estudio que serviría para justificar los trabajos reportados por la autoridad por el concepto de contrataciones de servicios profesionales 2.
 
@@ -45,4 +44,4 @@ Hasta el cierre de esta edición, el académico Rangel Medina no respondió a la
 
 Edición por: #Eduard Martín-Borregón
 
-Para ver la nota completa *[da click aquí]({{ site.baseurl }}/ellos-construyen-la-presa)*https://https://lanuevaamenazadegrupomexico.projectpoder.org/2019/12/12/academicos-de-sonora-al-servicio-de-grupo-mexico.html
+Para ver la nota completa *[da click aquí](https://https://lanuevaamenazadegrupomexico.projectpoder.org/2019/12/12/academicos-de-sonora-al-servicio-de-grupo-mexico.html)
