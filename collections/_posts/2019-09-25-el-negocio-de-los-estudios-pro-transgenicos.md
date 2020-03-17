@@ -3,6 +3,7 @@ layout: post
 title: El negocio de los estudios pro transgénicos
 image: Naves-de-siembra.jpg
 author: "Ricardo Balderas"
+order: 3
 ---
 
  #El negocio de los estudios protransgénicos
