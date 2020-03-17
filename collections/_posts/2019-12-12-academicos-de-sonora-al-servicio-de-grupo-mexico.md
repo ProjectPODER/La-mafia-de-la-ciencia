@@ -44,4 +44,4 @@ Hasta el cierre de esta edición, el académico Rangel Medina no respondió a la
 
 Edición por: #Eduard Martín-Borregón
 
-Para ver la nota completa *[da click aquí](https://https://lanuevaamenazadegrupomexico.projectpoder.org/2019/12/12/academicos-de-sonora-al-servicio-de-grupo-mexico.html)
+Para ver la nota completa *[da click aquí](https://lanuevaamenazadegrupomexico.projectpoder.org/2019/12/12/academicos-de-sonora-al-servicio-de-grupo-mexico.html)
