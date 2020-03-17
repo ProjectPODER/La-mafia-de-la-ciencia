@@ -49,7 +49,8 @@ Los ataques provienen principalmente de la red social Twitter, donde descalifica
 Estos ataques siempre fueron dirigidos desde perfiles con pocos seguidores y que no poseen antecedentes de interés en la investigación científica, por lo que podría tratarse de lo que coloquialmente de identifica como bots.
 
 
-Edicióon por: # Eduard Martín Borregón
+Edición por: # Eduard Martín Borregón
+
+Para ver la nota completa *[da click aquí](https://www.rindecuentas.org/reportajes/2019/09/25/el-negocio-de-los-estudios-pro-transgenico/)
 
 
-https://www.rindecuentas.org/reportajes/2019/09/25/el-negocio-de-los-estudios-pro-transgenico/ 
