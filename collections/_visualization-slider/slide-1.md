@@ -3,8 +3,9 @@ title: Slide 1
 image: slide1.png
 ---
 
-# ¿Cómo se ejerció el presupuesto?
+# Casi 50 millones de presupuesto anual
 
-Durante 2019, los académicos del Foro A.C. obtuvieron recursos del Consejo Nacional de Ciencia y Tecnología (Conacyt) por 49,425,767 pesos, mismos que fueron utilizados en su mayoría para pagar nóminas, asesoría legal, viajes al extranjero y telefonía celular. Cuatro de los contratos más onerosos que reportaron en su informe fueron para pagarse liquidaciones de las que no reportan beneficiario. 
+El Foro A.C. obtuvo 49,425,767 pesos en el año 2019 desde el Consejo Nacional de Ciencia y Tecnología (Conacyt) y fueron manejados por la Doctora Julia Tagüeña Parga, extrabajadora de Conacyt y actual coordinadora general del Foro Consultivo Científico y Tecnológico A.C. 
 
-En el informe financiero del periodo del 31 de enero de 2018 al 30 de junio de 2019, entregado al Cocancyt por la asociación civil, se observa que esta erogó, entre muchos otros gastos, el pago de nómina de 17 personas, que ascendió a más de 11 millones de pesos.
+Debido a que Conacyt tiene la facultad de recurrir a los Fondos Institucionales “FOINS”, cuyas reglas de operación estipulan que para su ejercicio “no es necesario un proceso de licitación”, el Foro pudo ejercer toda la asignación de manera directa y sin presentar proyecto ejecutivo. Lo cual, aunque no es ilegal, sí es opaco.
+

@@ -1,10 +1,8 @@
 ---
-title: Noviembre y diciembre de 2018
-image: SUELDO_QUINCENA.png
+title: El foro no necesitaba dinero privado
+image: INFORME_FINANCIERO.png
 ---
 
-# Noviembre y diciembre de 2018
+# El foro no necesitaba dinero privado
 
-La secretaria técnica del Foro A.C., Adriana Ramona Guerra Gómez, percibió durante ese periodo 53,850 pesos quincenales; es decir, 107,700 pesos al mes. El sueldo más alto del país lo ostenta el presidente Andrés Manuel López Obrador, quién a penas recibe 108,659 pesos mensuales, por lo que esta académica duplicó las percepciones del máximo mandatario. 
-
-Estos meses no son los correspondientes al aguinaldo pues en el mismo documento se especifica que Guerra Gómez, por alguna razón que no relatan, recibió el monto de 134,600 pesos por concepto de aguinaldo la segunda quincena de junio.
+Noviembre y diciembre de 2018- Ningún coordinador general entre 2014 y 2019 reportó haber gastado más dinero que  el proporcionado por el Conacyt, por lo que los fondos privados que recibieron los últimos coordinadores generales son inexplicables. A pesar de no contar con un informe en donde expliquen el origen de este dinero que se le atribuye a Fernández Zayas, los académicos niegan el uso indiscriminado del recurso público al que tuvieron acceso.

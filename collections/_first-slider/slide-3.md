@@ -1,8 +1,8 @@
 ---
 title: 16 de junio de 2015
-image: CASA.jpg
+image: ASA_FORO.jpg
 ---
 
-# 16 de junio de 2015
+# 2.7 mdp por año
 
-El Foro Consultivo Científico y Tecnológico A.C. adquirió una casa en casa ubicada en el domicilio Melchor Ocampo, Casa #305 (antes 107), de la delegación Coyoacán en la Ciudad de México. Los fondos con los que adquirieron el inmueble jamas fueron revelados, incluso el dinero de donde obtenían recursos (Fondo F002 y FONIS) no permite que el sea utilizado con ese objetivo.
+16 de junio de 2015-El Foro A.C. surge en 2002, y para 2014, ya tenía más de 30 mdp en sus fondos privados. Es decir que la A.C. generó 2.7 mdp por años que fue depositando en sus cuentas privadas. Ese mismo dinero fue utilizado para comprar la casa ubicada en Coyoacán.  Esta es la cifra que comentó como aproximado la Doctora Gabriela Dutrénit, coordinadora general del Foro A.C. entre 2012 y 2014, en entrevista con PODER. 
