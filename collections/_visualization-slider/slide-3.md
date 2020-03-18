@@ -3,7 +3,7 @@ title: Slide 3
 image: visualization-example.png
 ---
 
-# Los años de bonanza
+# Cuatro mil contratos en 18 meses
 
 Gastar 50 millones de pesos en tres semestres no es fácil; se repartieron en su mayoría para pagar nóminas -el pago de los honorarios de 17 personas que ascendió a más de 11 millones de pesos-, asesoría legal, viajes al extranjero, telefonía celular, gasolina, papelería, productos de Amazon y otros gastos menores. 
 
