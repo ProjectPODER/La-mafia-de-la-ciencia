@@ -1,6 +1,6 @@
 ---
 title: 26 de septiembre de 2019
-image: [FOTO DE ACUERDO_TAGUEÑA.jpg
+image: FOTO DE ACUERDO TAGUEÑA.jpg
 ---
 
 # Autoasignación de fondos 
