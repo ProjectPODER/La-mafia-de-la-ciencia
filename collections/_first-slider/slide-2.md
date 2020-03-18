@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: ACTA.jpg
+image: ACTA CONSTITUTIVA FORO A.C..jpg
 ---
 
 # Creación de la A.C. suplantadora 
