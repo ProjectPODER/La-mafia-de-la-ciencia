@@ -45,7 +45,7 @@ graph:
           - contractTypes: '#FF9A00'
           - contractByType: '#d50035'
           - organization: '#850062'
-          - shareholderPerson: '#9a003e'
+          - shareholderPerson: 'rgba(154,0,62,0.5)'
       - links:
           - default: '#706F74'
           - contractsTypes: '#706F74'

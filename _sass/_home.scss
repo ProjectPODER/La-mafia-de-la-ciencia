@@ -37,8 +37,10 @@
     .main-text {
         font-weight: bold;
         display: inline-block;
-        background-color: rgba(255,255,255,0.3);
-        color: $black;
+        // background-color: rgba(255,255,255,0.3);
+        // color: $black;
+        background-color: rgba(0,0,0,0.3);
+        color: $white;
         padding: 20px;
     }
 }
@@ -73,6 +75,6 @@
     }
 }
 
-.mt3 {
-    margin-top: 3rem;
+.mt4 {
+    margin-top: 4rem;
 }
