@@ -5,4 +5,7 @@ image: visualization-example.png
 
 # Los años de bonanza
 
-Debido a que Conacyt tiene la facultad de recurrir a los Fondos Institucionales “FOINS”, para los cuales sus reglas de operación estipulan que para su ejercicio “no es necesario un proceso de licitación”, los académicos adjudicaron dinero a personas relacionadas con la A.C., principalmente para elaborar documentos de comunicación. Ese dinero fue ejercercido de manera directa y sin presentar proyecto ejecutivo. Lo cual, aunque no es ilegal, sí es opaco.
+Gastar 50 millones de pesos en tres semestres no es fácil; se repartieron en su mayoría para pagar nóminas -el pago de los honorarios de 17 personas que ascendió a más de 11 millones de pesos-, asesoría legal, viajes al extranjero, telefonía celular, gasolina, papelería, productos de Amazon y otros gastos menores. 
+
+Los cuatro contratos más onerosos que reportaron en su informe fueron para pagar liquidaciones de las que no reportan beneficiario. En la visualización solo se ven los contratos superiores a los 20,000 pesos. La base de datos entera se *[da click aquí](https://drive.google.com/file/d/1_IPuPKsBnRdpy_DNyEzDS_1sCgiTM7fn/view?usp=sharing)
+
