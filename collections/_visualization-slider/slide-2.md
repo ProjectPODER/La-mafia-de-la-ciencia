@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: slide2.png
 ---
 
 # 2018 y 2019

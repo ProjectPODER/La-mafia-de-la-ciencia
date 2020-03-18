@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: slide4.png
 ---
 
 # Así se repartió el dinero

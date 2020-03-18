@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualization-example.png
+image: slide1.png
 ---
 
 # ¿Cómo se ejerció el presupuesto?

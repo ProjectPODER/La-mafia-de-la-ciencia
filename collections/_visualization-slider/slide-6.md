@@ -1,6 +1,6 @@
 ---
 title: Slide 6
-image: visualization-example.png
+image: slide5.png
 ---
 
 # La verdadera ganadora

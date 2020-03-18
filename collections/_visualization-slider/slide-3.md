@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: slide3.png
 ---
 
 # Los años de bonanza

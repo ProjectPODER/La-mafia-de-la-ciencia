@@ -1,6 +1,6 @@
 ---
 title: Slide 5
-image: visualization-example.png
+image: slide5.png
 ---
 
 # El Foro A.C. y sus contratos
