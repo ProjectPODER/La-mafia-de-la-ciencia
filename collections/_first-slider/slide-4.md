@@ -1,8 +1,8 @@
 ---
 title: 27 de marzo de 2015
-image: TAGUEÑA_FONDOS.png
+image: El origen del dinero inexplicable.png
 ---
 
-# 27 de marzo de 2015
+# El origen del dinero inexplicable y el PRI
 
-Siendo secretaria técnica del Conacyt, Julia Tagueña Parga, presentó, aprobó y asignó el convenio de asignación de recursos para el Foro A.C. en el que desde iniciado el 2019 es coordinadora general. En el Comité de Apoyos Institucionales del “Conacyt”, en su sesión celebrada el día 04 de marzo de 2015, mediante el Acuerdo número 5/I/2015 se aprobó la propuesta denominada: “PROGRAMA ANUAL 2015 DEL FORO CONSULTIVO CIENTÍFICO Y TECNOLÓGICO”, que contemplaba entregar 36,000,000 pesos.
+Gabriela Dutrénit asegura que cuando tomó protesta como coordinadora del Foro A.C. recibió, además, un fondo privado de aproximadamente 30 millones de pesos proveniente de la gestión de Luis Fernández Zayas, el mismo investigador que prestó su firma para impulsar la Reforma Energética de Enrique Peña Nieto. Este dinero sería utilizado para comprar una casa en Coyoacán con un valor tentativo de 17 mdp.
