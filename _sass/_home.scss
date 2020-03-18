@@ -4,24 +4,24 @@
     height: auto;
     min-height: 35rem;
     padding: 10rem 0;
-    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
-    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url('#{$bgHome}');
+    background: url('#{$bgHome}');
+    background: url('#{$bgHome}');
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
 
     h1 {
-        font-size: 80px;
-        line-height: 85px;
-        margin-bottom: 2rem;
+        font-size: 120px;
+        line-height: 125px;
+        margin-bottom: 3rem;
         font-weight: bolder;
+        display: inline-block;
+        background-color: rgba(255,255,255,0.3);
+        color: $black;
+        padding: 0 30px 5px;
     }
     
-    h1,
-    p {
-        color: $white;
-    }
     p {
         font-size: 1.7rem;
     }
@@ -29,6 +29,17 @@
         @extend .btn;
         @extend .btn-primary;
         margin: 2rem 0.5rem 1rem 0.5rem;
+        padding: 20px 30px;
+        font-size: 1.5rem;
+        background-color: #002259;
+        color: $white;
+    }
+    .main-text {
+        font-weight: bold;
+        display: inline-block;
+        background-color: rgba(255,255,255,0.3);
+        color: $black;
+        padding: 20px;
     }
 }
 
@@ -60,4 +71,8 @@
     .container {
         max-width: 1240px;
     }
+}
+
+.mt3 {
+    margin-top: 3rem;
 }
