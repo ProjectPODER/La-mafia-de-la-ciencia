@@ -23,13 +23,21 @@ Se consultó informes del Departamento de Investigación de PODER, estudios y da
 # Créditos y agradecimientos
 
 **Investigación, narrativa y reportajes**: Ricardo Balderas.
+
 **Coordinación de proyecto**: Claudia Ocaranza. 
+
 **Desarrollo Front End**: Marisol Carrillo.
+
 **Desarrollo Back End**: Fernando Matzdorf.
+
 **Fotografía y video**: Ricardo Balderas.
+
 **Coordinación de desarrollo**: Martín Szyszlican.
+
 **Dirección de proyecto**: Fernanda Hopenhaym
+
 **Comunicación**: María Fernanda Wray.
+
 **Ilustración**: Dani Scharf
 
 Agradecimientos: A todo el equipo de PODER.
