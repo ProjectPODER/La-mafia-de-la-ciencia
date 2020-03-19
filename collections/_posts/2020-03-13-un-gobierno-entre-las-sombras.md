@@ -63,6 +63,9 @@ Sobre la demanda, la actual coordinadora general del Foro A.C., Julia Tagüeña,
 
 La versión de los académicos dista mucho de lo estipulado en los expedientes judiciales, de los que PODER posee copias, principalmente porque ellos aseguran que no hubo un uso ilícito del recurso asignado. Serán los tribunales quienes tengan la última palabra.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDp3kBnqq98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Historia de [Ricardo Balderas](https://twitter.com/Ricky_leaks_) editada por Fernanda Hopenhaym. 
 
 *Los datos analizados por PODER fueron tomados del más reciente informe financiero presentado por la propia Asociación Civil Foro Consultivo. Es importante mencionar que algunas facturas fueron retiradas del conteo final debido a que carecían de información en más de dos casillas importantes, además, la suma original es mayor debido a que en el proceso de captura de datos fueron retirados los montos utilizados en pagos al Servicio de Administración Tributaria (SAT).* 
