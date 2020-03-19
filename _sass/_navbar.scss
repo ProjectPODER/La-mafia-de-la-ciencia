@@ -18,3 +18,10 @@
 .bg-dark {
     background-color: #002259 !important;
 }
+
+@media (max-width: 767px) {
+    .navbar-brand img {
+        height: 50px;
+        width: auto;
+    }
+}
