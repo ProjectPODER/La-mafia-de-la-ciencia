@@ -63,7 +63,7 @@ Sobre la demanda, la actual coordinadora general del Foro A.C., Julia Tagüeña,
 
 La versión de los académicos dista mucho de lo estipulado en los expedientes judiciales, de los que PODER posee copias, principalmente porque ellos aseguran que no hubo un uso ilícito del recurso asignado. Serán los tribunales quienes tengan la última palabra.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C38yCRh27kA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
