@@ -3,7 +3,7 @@ title: La primera acción contra el Foro
 image: COMUNICADO_CONACYT.png
 ---
 
- # La primera acción contra el Foro
+# La primera acción contra el Foro
 
 El Conacyt emite el comunicado donde denuncia que el Foro Consultivo Científico y Tecnológico, A.C. ha “duplicado atribuciones que corresponden al Conacyt, sin que haya mediado solicitud alguna en los términos que mandata la ley aplicable”. Tras la denuncia por duplicidad, además se deslinda de haber otorgado autorización para continuar sus operaciones.
 
