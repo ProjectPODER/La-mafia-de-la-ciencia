@@ -34,7 +34,7 @@ Se consultó informes del Departamento de Investigación de PODER, estudios y da
 
 **Coordinación de desarrollo**: Martín Szyszlican.
 
-**Dirección de proyecto**: Fernanda Hopenhaym
+**Dirección de proyecto**: Fernanda Hopenhaym.
 
 **Comunicación**: María Fernanda Wray.
 
