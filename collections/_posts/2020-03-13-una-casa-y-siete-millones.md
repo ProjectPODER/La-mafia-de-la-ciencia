@@ -82,6 +82,8 @@ La denuncia del presidente ocurrió en junio de 2019, pero no fue hasta el sigui
 {:.image-post}
 ![COMUNICADO. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/COMUNICADO_CONACYT.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78MCs1K1Su0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 En respuesta a la crisis financiera que estaba por configurarse, Adriana Guerra, en calidad de secretaria técnica, interpuso el amparo número I-1440/2019 con el que pretenden obligar al estado a seguir dando dinero público a su asociación privada. 
 
 En lo que se resolvía ese amparo interpuesto en contra de Conacyt, los científicos de la A.C. consiguieron, además, una Suspensión de Actos en los Tribunales Administrativos; es decir, les otorgaron un documento jurídico que ordenaba a las autoridades a entregarles dinero en tanto se resolvía el fondo del juicio de amaparo para la operación de la A.C..
@@ -103,6 +105,8 @@ Aunque jamás explica los motivos de los viajes, ni declara a la prensa que sus 
 
 Además de Tagüeña, se han localizado a otros personajes que hacen uso de seudónimos para atacar la nueva gestión. Aunque estos ataques están dirigidos en su mayoría al presidente López Obrador, perfiles como el de “Obrero Futurista, Pato McCuack o El antichairo justiciero”, aprovechan de las coyunturas mediáticas para golpear al Conacyt en redes sociales.
 
+{:.image-post}
+![BOTS. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/TROLLS.png)
 
 
 Historia de [Ricardo Balderas](https://twitter.com/Ricky_leaks_) editada por Fernanda Hopenhaym. 
