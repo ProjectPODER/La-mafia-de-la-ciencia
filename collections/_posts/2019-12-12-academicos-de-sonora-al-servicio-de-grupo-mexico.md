@@ -6,9 +6,6 @@ image: UNISON_CŔEDITO_CanalSonora_01.jpg
 order: 4
 ---
 
-{:.image-post}
-![UNISON. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/UNISON_CŔEDITO_CanalSonora_01.jpg)
-
 Académicos de la Universidad de Sonora (UNISON) usan recursos patrocinados por el centro académico y la empresa Grupo México, del magnate Germán Larrea, para generar una imagen positiva de la minería en la región, específicamente sobre el derrame de 40,000 metros cúbicos de lixiviados de sulfato de cobre, ocurrido en la mina Buenavista del Cobre en 2014.
 
 Vía Méxicoleaks, este medio de comunicación recibió documentación sobre cómo algunos miembros de la comunidad científica aparecen constantemente apoyando a las empresas mineras y no a las comunidades afectadas. Se trata de Felipe Mora Arellano, Héctor Mendivil Quijada y a Miguel Rangel Medina. Los dos últimos además de su labor en diferentes universidades, hacen negocios con el gobierno.
@@ -18,6 +15,10 @@ Rangel Medina trabajó como investigador del departamento de Geología de la UNI
 También cobra como persona moral. Con cargo al erario de los sonorenses, Miguel Rangel Medina, doctor de la UNISON, cobró al gobierno local 865,000 pesos para realizar un estudio denominado: “Elaboración de un modelo conceptual de funcionamiento hidrogeológico e hidrogeoquímico y computacional de flujo de las aguas subterráneas del valle de Guaymas, Estado de Sonora”, mismo estudio que serviría para justificar los trabajos reportados por la autoridad por el concepto de contrataciones de servicios profesionales 2.
 
 Asimismo, Rangel Medina es editor de la publicación “Revista Latinoamericana de Hidrogeología”, pertenenciente a la Asociación Latinoamericana de Hidrología Subtearránea para el Desarrollo (ALHSUD), en la que Rangel Medina también es presidente. Los derechos de publicación de la revista son de la Universidad de Sonora, con dirección fiscal en Rosales y Blvd. Luis Encinas, Hermosillo y registrada con el ISSN: 1676-0999.
+
+
+{:.image-post}
+![UNISON. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/UNISON_CŔEDITO_CanalSonora_01.jpg)
 
 La revista publicada en 2019 a favor de la minería, fue vista en el interior del recinto de la Suprema Corte de Justicia de la Nación (SCJN) en agosto de ese año, el día que se resolvía el amparo interpuesto por los Comités de Cuenca Río Sonora (CCRS) contra el cierre arbitrario del Fideicomiso instalado supuestamente para remediar las afectaciones ocasionadas por el derrame responsabilidad de Grupo México, repartiendo ejemplares de la revista con el siguiente mensaje: “Las prácticas contaminantes percibidas por la sociedad, ciertas o no, suelen generar oposición a los proyectos de explotación minera, a pesar de que en la actualidad las estrategias de gestión del agua se instituyen rutinariamente para mitigar el impacto ambiental y son fundamentales para el desarrollo, operación y restauración de una mina. Algunas empresas, preocupadas por ello, superan el cumplimiento regulatorio”.
 
