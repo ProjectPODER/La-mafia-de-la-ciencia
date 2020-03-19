@@ -26,9 +26,11 @@ En el mismo tenor, en la actual administración de la A.C. (Adriana Ramona Guerr
 
 Estas actividades (la investigación por la tragedia de Pasta de Conchos) que sí tenían fines de lucro no fueron reportadas en ningún sitio. Además, en la página web del Foro A.C. no aclaran específicamente qué porcentaje del dinero que recibían del Consejo Nacional de Ciencia y Tecnología (Conacyt) servía para actividades académicas o cuál era el porcentaje o monto que era destinado a otras de sus actividades. Lo que sí sostiene es que el inmueble ahora pertenece a los constituyentes de la A.C.
 
+El dinero utilizado por el Foro A.C. provenía principalmente de dos fondos: Fondo Institucional del Conacyt (FOINS) y de los Lineamientos del Programa de Apoyos para Actividades Científicas, Tecnológicas y de Innovación (“Programa Presupuestario F002”).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDp3kBnqq98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-El dinero utilizado por el Foro A.C. provenía principalmente de dos fondos: Fondo Institucional del Conacyt (FOINS) y de los Lineamientos del Programa de Apoyos para Actividades Científicas, Tecnológicas y de Innovación (“Programa Presupuestario F002”).
+> Puedes mover el cursor para ver en 360° las instalaciones.
 
 {:.image-post}
 ![Historial de gasto. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/TABLA_GASTOS.png)
@@ -93,7 +95,7 @@ Pero Conacyt asegura en la notificación judicial que entregó el cheque a la se
 {:.image-post}
 ![Entrega del dinero. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/CHEQUE.png)
 
-La guerra en medios: El discurso y los bots
+## La guerra en medios: El discurso y los bots
 
 Desde que se presentó la demanda de amparo en contra de las autoridades de Conacyt, algunos de los académicos mencionados, como Julia Tagüeña Parga, han aparecido en diferentes plataformas informativas asegurando que la existencia de este foro es indispensable para el desarrollo científico de la nación.
 
