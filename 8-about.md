@@ -4,53 +4,33 @@ title: Sobre el proyecto
 permalink: /about/
 ---
 
-# Building my website with TowerBuilder
+# Quiénes somos
 
-TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge. It is designed to follow the money in large contracting processes and has been used in both big public works [TorreDeControl.org](https://torredecontrol.projectpoder.org/) and in medicine procurement [VivirConVIH.org](http://livingwithhiv.org/).
+La mafia de la ciencia es un trabajo periodístico del Departamento de Periodismo, Datos y Tecnología, de la organización PODER, que tiene como objetivo develar las relaciones de algunos prestigiados académicos con el ejercicio opaco del presupuesto público designado al desarrollo de la Ciencia y Tecnoloogía. Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas con el expediente judicial I-1440/2019 y entrevistas con los primeros interesados.
 
-## What do I need to create my own TowerBuilder website?
+## Metodología
 
-- Get an OCDS-format contracting list.
-- Create a spreadsheet shared with contracting businesses owners.
-- Write and edit text in [MarkDown](https://guides.github.com/features/mastering-markdown/) format.
-- A [GitHub.com](https://github.com/) account.
+## Visualización y micrositio
 
-## What are the advantages of creating websites using TowerBuilder?
+El proyecto utiliza el sistema TowerBuilder, que no requiere de programación para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente en grandes obras públicas ([TorreDeControl.org](https://torredecontrol.org/)) y ([Lanuevaameenazadegrupomexico.org](https://lanuevaamenazadegrupomexico.projectpoder.org/)) en la compra de medicamentos ([VivirConVIH.org](https://www.vivirconvih.org/)).
 
-- Default design doesn't require any coding or web hosting, everything is done in GitHub.com.
-- Visually impressive data visualization and a useful contracting search system.
-- If you already have the data, you'll be able to create your website within minutes.
-- Highly customizable design.
-- You can use open data from your country's government and show how useful the open contracting standard (OCDS) is for journalism.
+## Fuentes
 
-If, during this process you find anything to be difficult, you can try again in 15 minutes, check our [Errors and Corrections](https://towerbuilder.readthedocs.io/en/latest/C3/Seccion1.html) section, or [ask for help](https://towerbuilder.readthedocs.io/en/latest/C3/Seccion1.html#i-have-another-issue).
+-Fuentes documentales
 
-## Launched projects
+Se consultó informes del Departamento de Investigación de PODER, estudios y datos de libre acceso del Conacyt, así como leyes e informes financieros.
 
-- Living with HIV - [http://livingwithhiv.org/](http://livingwithhiv.org/)
+# Créditos y agradecimientos
 
-Contact us to add your project created with TowerBuilder through the following e-mail address: <info@quienesquien.wiki>.
+**Investigación, narrativa y reportajes**: Ricardo Balderas.
+**Coordinación de proyecto**: Claudia Ocaranza. 
+**Desarrollo Front End**: Marisol Carrillo.
+**Desarrollo Back End**: Fernando Matzdorf.
+**Fotografía y video**: Ricardo Balderas.
+**Coordinación de desarrollo**: Martín Szyszlican.
+**Dirección de proyecto**: Fernanda Hopenhaym
+**Comunicación**: María Fernanda Wray y Mariela Álvarez.
+**Ilustración**: Dani Scharf
 
-## Demos
+Agradecimientos: A todo el equipo de PODER.
 
-Spanish: <http://es.towerbuilder.projectpoder.org/>
-
-English: <https://towerbuilder.projectpoder.org/>
-
-### Iframe versions
-
-Tower Builder has versions that can be inserted as an iframe in other websites: 
-
-<https://towerbuilder.projectpoder.org/?iframe>.
-
-Visualization or slider iframe:
-
-<https://towerbuilder.projectpoder.org/iframe-visualization/>
-
-<https://towerbuilder.projectpoder.org/iframe-slider/>
-
-## Documentation
-
-Spanish: <https://towerbuilder.readthedocs.io/es/latest/index.html>
-
-English: <https://towerbuilder.readthedocs.io/en/latest/index.html>
