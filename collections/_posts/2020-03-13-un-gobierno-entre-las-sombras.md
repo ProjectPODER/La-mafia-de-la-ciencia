@@ -20,9 +20,9 @@ Gracias a una filtración vía Méxicoleaks, PODER tuvo acceso a más de 700 doc
 
 Cuando nace la Ley de Ciencia y Tecnología (LCyT) y la Ley Orgánica del Conacyt, el 5 de junio de 2002, se menciona dentro de las mismas, que se debía conformar un Foro Consultivo Científico y Tecnológico con el objetivo de otorgar asesoramiento en la materia a diferentes espacios gubernamentales y al Conacyt. Ese foro estaría conformado bajo la figura de Órgano Colegiado. 
 
-La propia Ley sería entonces la base para constituir el Foro mencionado en la misma. Además, en los estatutos se especifica que quiénes conformarían esta figura serían trabajadores de diferentes dependencias y en ningún momento debería tener carácter jurídico (sin el cual es imposible realizar compras y contrataciones, entre otros).
-
 Pero un par de meses después, el 27 de septiembre de ese mismo año, cuando la Ley de Ciencia y Tecnología ya había sido aprobada en el Congreso, Patricia Zúñiga Cendejas, quien quedaría como Secretaria Técnica del Foro Consultivo, constituido por dichas leyes, y José Antonio de la Peña Mena, entonces Coordinador General, crearon frente al notario público Ángel Gilberto Adame López, la entidad jurídica Foro Consultivo de Ciencia y Tecnología, A.C. (Foro A.C.).
+
+En contra de la LCyT, dos meses más tarde, las autoridades en turno del Conacyt promovieron un estatuto que le dio validez temporal a la A.C.
 
 Zuñiga Cendejas y De la Peña no cumplieron con la ley, sino que se basaron en un estatuto impulsado durante su administración y crearon una asociación que suplantó funciones del Estado. Pero lo que realmente se pensó para dicho foro, era ser un órgano interno dentro de Conacyt, por lo que la existencia de dicha A.C. usurpa el nombre y funciones estipuladas para el Órgano Interno y el notario público no reparó en esta suplantación. 
 
@@ -31,7 +31,9 @@ En el artículo 36 de la LCyT se habla además del “Foro Consultivo” como un
 {:.image-post}
 ![Artículo 36. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/LEY DE CIENCIA Y TECNOLOGÍA ART.36.png)
 
-Con la asociación constituida, los académicos estaban listos para tomar el poder. Lo realizado por estos trabajadores presume una ilegalidad debido a que la vía correcta para constituir una institución que fungirá como Órgano Interno, se encuentra claramente estipulado en la Ley Federal de Entidades Paraestatales. En términos generales, esta ley explica que cualquier organismo de índole autónomo que requiera de operación de Fondos Públicos deberá ser constituido como un Fideicomiso y no como una A.C. También se explica que el beneficiario de estos fondos deberá ser un fideicomitente. Nada de esto se cumplió. 
+Con la asociación constituida, los académicos estaban listos para tomar el poder. Lo realizado por estos trabajadores presume una ilegalidad debido a que la vía correcta para constituir una institución que fungirá como Órgano Interno, se encuentra claramente estipulado en la Ley Federal de Entidades Paraestatales. En términos generales, esta ley explica que cualquier organismo de índole autónomo que requiera de operación de Fondos Públicos deberá ser constituido como un Fideicomiso y no como una A.C. También se explica que el beneficiario de estos fondos deberá ser un fideicomitente. Nada de esto se cumplió.
+
+La propia Ley sería entonces la base para constituir el Foro mencionado en la misma. Actualmente, en los estatutos del Conacyt se especifica que quiénes conformarían esta figura serían representantes de diferentes instituciones a los que se refiere la Ley y en ningún momento debería tener personalidad jurídica (sin la cual es imposible realizar compras y contrataciones, entre otros). 
 
 ## ¿Quiénes son y cómo llegaron algunos al PRI?
 
