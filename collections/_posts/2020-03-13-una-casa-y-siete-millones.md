@@ -6,11 +6,11 @@ author: "Ricardo Balderas"
 order: 1
 ---
 
-Durante el último año, los académicos que dirigen el Foro Consultivo de Ciencia y Tecnología, A.C. reportaron en sus gastos viajes internacionales con destinos como “Bruselas, China, Colombia”, compras de carnes frías, desayunos en restaurantes lujosos como el Saks de Polanco, gasolina para autos, servicios de estacionamiento, equipos celulares, tintorería y líneas telefónicas particulares.
+Durante el último año, los académicos que dirigen el Foro Consultivo Científico y Tecnológíco, A.C. reportaron en sus gastos viajes internacionales con destinos como “Bruselas, China, Colombia”, compras de carnes frías, desayunos en restaurantes lujosos como el Saks de Polanco, gasolina para autos, servicios de estacionamiento, equipos celulares, tintorería y líneas telefónicas particulares.
 
 Pero el más alarmante de los gastos, que además es una irregularidad, es la adquisición de un inmueble. Cada año el Foro A.C., creada en 2002 y suplantando a lo que debió ser un órgano interno del Consejo Nacional de Ciencia y Tecnología (Conacyt), justificaba con su Informe Técnico Financiero en qué se gastaban el dinero del presupuesto que se asignaban. No obstante, en ninguno de los informes presentados por la A.C. reportaron haber adquirido fondos para comprar un inmueble. La compra ocurrió en 2015.
 
-Se trata de la casa ubicada en el domicilio Melchor Ocampo, Casa #305 (antes 107), en una  zona residencial del centro de la colonia Coyoacán, en la Ciudad de México. PODER posee copias selladas de los registros catastrales en los que efectivamente se revela que la Asociación Civil adquirió la superficie en carácter de propietaria el 16 de junio de 2015 (durante la coordinación de José de Jesús Franco López). Dicho acto contraviene también lo estipulado en las reglas de operación de un órgano interno, pues en ningún momento se establece que debería tener personalidad jurídica (sin la cual es imposible realizar compras y contrataciones, entre otros actos). Para que el Foro pudiera realizar una compra de tal magnitud, se tuvo que conformar como A.C.
+Se trata de la casa ubicada en el domicilio Melchor Ocampo, Casa #305 (antes 107), en una  zona residencial del centro de la colonia Coyoacán, en la Ciudad de México. PODER posee copias selladas de los registros catastrales en los que efectivamente se revela que la Asociación Civil adquirió la superficie en carácter de propietaria el 16 de junio de 2015 (durante la coordinación de José de Jesús Franco López). Dicho acto contraviene a las reglas de operación de un órgano interno, pues en ningún momento se establece que debería tener personalidad jurídica (sin la cual es imposible realizar compras y contrataciones, entre otros actos). Para que el Foro pudiera realizar una compra de tal magnitud, se tuvo que conformar como A.C.
 
 Para averiguar el origen del dinero con el que se adquirió el inmueble, este medio de comunicación entrevistó a los últimos tres coordinadores generales de la A.C. que abarcaron un periodo de ocho años. En primer lugar se entrevistó a la doctora Gabriela Dutrénit, posteriormente a la doctora Julia Tagüeña Parga, también y finalmente al doctor José de Jesús Franco.
 
@@ -26,7 +26,7 @@ En el mismo tenor, en la actual administración de la A.C. (Adriana Ramona Guerr
 
 Estas actividades (la investigación por la tragedia de Pasta de Conchos) que sí tenían fines de lucro no fueron reportadas en ningún sitio. Además, en la página web del Foro A.C. no aclaran específicamente qué porcentaje del dinero que recibían del Consejo Nacional de Ciencia y Tecnología (Conacyt) servía para actividades académicas o cuál era el porcentaje o monto que era destinado a otras de sus actividades. Lo que sí sostiene es que el inmueble ahora pertenece a los constituyentes de la A.C.
 
-El dinero utilizado por el Foro A.C. provenía principalmente de dos fondos: Fondo Institucional del Conacyt (FOINS) y de los Lineamientos del Programa de Apoyos para Actividades Científicas, Tecnológicas y de Innovación (“Programa Presupuestario F002”).
+El dinero utilizado por el Foro A.C. provenía principalmente de dos fondos: Fondo Institucional del Conacyt (FOINS) y del Programa de Apoyos para Actividades Científicas, Tecnológicas y de Innovación (“Programa Presupuestario F002”).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDp3kBnqq98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ El motivo de la fecha irregular para recibir el pago fue revelado en entrevista 
 
 En tan sólo un año (2019) la Asociación Civil Foro Consultivo Científico y Tecnológico reportó haber erogado 2,201,537 pesos sólo en gastos dirigidos a Guerra Gómez. Fue ella quien viajó a Beijing, China, con cargo al erario, además de que contrató servicios de comidas en el extranjero. Es importante mencionar que las percepciones salariales de los trabajadores en la A.C. no se encuentran marcadas en el registro de gasto, es decir, los sueldos y los contratos son cosas distintas, por lo que Guerra Gómez no aparece como máxima licitante, pero sí es una de las personas con mayores ganancias dentro de la A.C..
 
-Por otra parte, la actual coordinadora del Foro A.C., Julia Tagüeña Parga se desempeñó como Directora Adjunta de Desarrollo Científico del Conacyt  en el periodo de abril de 2013 a noviembre de 2018. Participó en los procesos de autorización financiera firmando 3,306 proyectos por un monto total de 225,300,000 pesos. De esa cantidad 104 millones de pesos fueron financiados con cargo al Fondo Institucional del Conacyt, que expresamente tiene prohibido como objetivo financiar organismos del sector privado. 
+Por otra parte, la actual coordinadora del Foro A.C., Julia Tagüeña Parga se desempeñó como Directora Adjunta de Desarrollo Científico del Conacyt  en el periodo de abril de 2013 a noviembre de 2018. Participó en los procesos de autorización financiera firmando 3,306 proyectos por un monto total de 225,300,000 pesos. De esa cantidad 104 millones de pesos fueron financiados con cargo al Fondo Institucional del Conacyt, que no tiene como objetivo financiar organismos del sector privado. 
 
 {:.image-post}
 ![Reglas de operación. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/LEY_DE_ÓRGANOS_AUTÓNOMOS.png)
