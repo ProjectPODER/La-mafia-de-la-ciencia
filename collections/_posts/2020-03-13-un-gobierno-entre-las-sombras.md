@@ -29,9 +29,9 @@ En el artículo 36 de la LCyT se habla además del “Foro Consultivo” como un
 {:.image-post}
 ![Artículo 36. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/LEY DE CIENCIA Y TECNOLOGÍA ART.36.png)
 
-Con la asociación constituida, los académicos estaban listos para tomar el poder. Lo realizado por estos trabajadores presume una ilegalidad debido a que la vía correcta para constituir una institución que fungirá como Órgano Interno, se encuentra claramente estipulado en la Ley Federal de Entidades Paraestatales. En términos generales, esta ley explica que cualquier organismo de índole autónomo que requiera de operación de Fondos Públicos deberá ser constituido como un Fideicomiso y no como una A.C. También se explica que el beneficiario de estos fondos deberá ser un fideicomitente. Nada de esto se cumplió.
+Con la asociación constituida, los académicos estaban listos para tomar el poder. El 09 de diciembre de 2002 se publicó en el Diario Oficial de la Federación un Estatuto en el que se da cuenta de la existencia del Foro A.C. pero que carece de fundamentación. Es decir, si el Foro A.C. fuera público, debió haberse constituido de conformidad en lo previsto en la Ley de Federales de Entidades Paraestatales, y no, mediante una acta constitutiva. 
 
-La propia Ley sería entonces la base para constituir el Foro mencionado en la misma. Actualmente, en los estatutos del Conacyt se especifica que quiénes conformarían esta figura serían representantes de diferentes instituciones a los que se refiere la Ley y en ningún momento debería tener personalidad jurídica (sin la cual es imposible realizar compras y contrataciones, entre otros). 
+La propia Ley sería entonces la base para constituir el Foro mencionado en la misma. Debido a la falta de fundamentación recientemente tuvieron que realizar cambios en dichos estatutos del Conacyt. Ahora se especifica que quiénes conformarían esta figura serían representantes de diferentes instituciones a los que se refiere la Ley y en ningún momento debería tener personalidad jurídica (sin la cual es imposible realizar compras y contrataciones, entre otros). 
 
 ## ¿Quiénes son y cómo llegaron algunos al PRI?
 
