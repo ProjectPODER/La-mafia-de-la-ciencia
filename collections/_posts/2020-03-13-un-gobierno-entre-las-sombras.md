@@ -11,7 +11,7 @@ order: 2
 
 Esta suplantación de roles ha permitido que algunos de esos académicos vinculados al Partido Revolucionario Institucional (PRI) realicen funciones como la gestión de fondos públicos, el apoyo a los legisladores en la generación de leyes en materia científica y el ejercicio de fondos públicos para su presunto enriquecimiento.  
 
-Gracias a una filtración vía Méxicoleaks, PODER tuvo acceso a más de 700 documentos confidenciales en los que se narra todo el proceso de judicialización y entre otras cosas, la denuncia por suplantación de funciones del estado.
+Gracias a una filtración vía Méxicoleaks, PODER tuvo acceso a más de 700 documentos confidenciales en los que se narra todo el proceso de judicialización y entre otras cosas, la suplantación de funciones del estado.
 
 {:.image-post}
 ![Acta constitutiva. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/ACTA CONSTITUTIVA FORO A.C..jpg)
