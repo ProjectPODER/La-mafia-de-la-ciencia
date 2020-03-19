@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Sobre el proyecto
-permalink: /about/
+permalink: /sobre-el-proyecto/
 ---
 
 # Quiénes somos
 
 La mafia de la ciencia es un trabajo periodístico del Departamento de Periodismo, Datos y Tecnología, de la organización PODER, que tiene como objetivo develar las relaciones de algunos prestigiados académicos con el ejercicio opaco del presupuesto público designado al desarrollo de la Ciencia y Tecnología. Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas con el expediente judicial I-1440/2019 y entrevistas con los primeros interesados.
 
-## Metodología
+<!-- ## Metodología -->
 
 ## Visualización y micrositio
 

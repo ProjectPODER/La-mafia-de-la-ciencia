@@ -28,7 +28,9 @@ Estas actividades (la investigación por la tragedia de Pasta de Conchos) que s�
 
 El dinero utilizado por el Foro A.C. provenía principalmente de dos fondos: Fondo Institucional del Conacyt (FOINS) y del Programa de Apoyos para Actividades Científicas, Tecnológicas y de Innovación (“Programa Presupuestario F002”).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDp3kBnqq98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9 mb-4">
+  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/VDp3kBnqq98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 > *Puedes mover el cursor para ver la casa en 360°.
 
@@ -82,7 +84,9 @@ La denuncia del presidente ocurrió en junio de 2019, pero no fue hasta el sigui
 {:.image-post}
 ![COMUNICADO. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/COMUNICADO_CONACYT.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/78MCs1K1Su0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9 mb-4">
+  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/78MCs1K1Su0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 En respuesta a la crisis financiera que estaba por configurarse, Adriana Guerra, en calidad de secretaria técnica, interpuso el amparo número I-1440/2019 con el que pretenden obligar al estado a seguir dando dinero público a su asociación privada. 
 
