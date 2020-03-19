@@ -6,6 +6,9 @@ image: UNISON_CŔEDITO_CanalSonora_01.jpg
 order: 4
 ---
 
+{:.image-post}
+![UNISON. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/UNISON_CŔEDITO_CanalSonora_01.jpg)
+
 Académicos de la Universidad de Sonora (UNISON) usan recursos patrocinados por el centro académico y la empresa Grupo México, del magnate Germán Larrea, para generar una imagen positiva de la minería en la región, específicamente sobre el derrame de 40,000 metros cúbicos de lixiviados de sulfato de cobre, ocurrido en la mina Buenavista del Cobre en 2014.
 
 Vía Méxicoleaks, este medio de comunicación recibió documentación sobre cómo algunos miembros de la comunidad científica aparecen constantemente apoyando a las empresas mineras y no a las comunidades afectadas. Se trata de Felipe Mora Arellano, Héctor Mendivil Quijada y a Miguel Rangel Medina. Los dos últimos además de su labor en diferentes universidades, hacen negocios con el gobierno.
@@ -25,7 +28,7 @@ En la misma revista aparece el segundo nombre. Se trata del también docente Fel
 Sobre Mora Arellano, otros docentes que prefirieron conservar el anonimato, también trabajadores de la UNISON, cuentan a este medio de comunicación que se le ha visto en charlas amistosas con trabajadores de alto nivel de la empresa de los Larrea. Se trata de un profesor de sociología de tiempo completo también de la UNISON.
 Finalmente, Héctor Mendivil Quijada actualmente miembro del cuerpo docente de la Universidad Nacional Autónoma de México (UNAM) 3 y extrabajador de la UNISON, es también fundador activo de la empresa Geo Digital Imaging de México, S.A. de C.V.. Dicha empresa publica en su sitio oficial que uno de sus mejores clientes es justo Grupo México 4.
 
-Día Mundial del Agua
+## Día Mundial del Agua
 
 “Mucha oposición ambientalista (a la minería) proviene de la falta de conocimiento (…) Este es el objetivo de ediciones como ésta, que permiten abrir las puertas del conocimiento a una industria extractiva que no por ser odiada por algunos, dejará de trabajar, pues esta industria es el ejemplo óptimo del uso de los recursos naturales”, afirma el texto de introducción a la revista que Rangel Medina repartió en la SCJN y firmó.
 
@@ -33,7 +36,7 @@ Hay más pruebas sobre la cercanía del académico con Grupo México. En el marc
 
 alternativas de uso de agua y optimización en los procesos industriales, la economía del agua en el mundo, el agua y la industria minera. Y sostuvo frente a los asistentes la efectividad que Grupo México daba en el tratamiento de sus aguas.
 
-Los negocios
+## Los negocios
 
 Las empresas de Rangel Medina y Mendivil Quijada recibieron la suma de 1,529,855 pesos en ocho contratos ocurridos entre abril de 2016 y junio de 2017, todos por adjudicación directa de las siguientes instituciones: la Comisión Nacional del Agua (CONAGUA), la Universidad de Guadalajara (UdeG), el Instituto Mexicano de Tecnología del Agua (IMTA) y el Instituto Potosino de Investigación Científica y Tecnológica (IPICYT).
 
@@ -41,7 +44,5 @@ Dos de esos contratos fueron para la firma Investigación y Desarrollo de Acuíf
 
 Por su parte, la empresa de Héctor Mendivil Quijada recibió cinco contratos por los conceptos de capacitación, mantenimiento de licencias, entrenamiento virtual de Oasis Montaj y una capacitación en geofísica. El monto por estas adjudicaciones fue de 117,237 pesos.
 Hasta el cierre de esta edición, el académico Rangel Medina no respondió a las solicitudes de entrevista realizadas por los canales conducentes.
-
-Edición por: #Eduard Martín-Borregón
 
 Para ver la nota completa *[da click aquí](https://lanuevaamenazadegrupomexico.projectpoder.org/2019/12/12/academicos-de-sonora-al-servicio-de-grupo-mexico.html)
