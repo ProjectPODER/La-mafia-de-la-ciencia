@@ -75,7 +75,7 @@ No solo eso. Ni el fondo referido, ni el Programa Presupuestario F002 admiten el
 
 Con la llegada de Andrés Manuel López Obrador a la presidencia, las condiciones del Foro A.C. fueron decayendo. El momento más complicado fue cuando el presidente en febrero de 2019 señaló que cierto grupo de académicos viven como una “Burocracia Dorada”. 
 
-“Hay mafias en todo, hasta en la ciencia. Y aunque parezca increíble... en la cultura, en la intelectualidad, hay cotos de poder que eran intocables, con sueldos elevadísimos”, declaraba el presidente de la república, Andrés Manuel López Obrador, frente a los cientos de periodistas que asisten todos los días a su conferencia de prensa matutina. Ese día, nadie objetó. El presidente tenía la razón, pero nadie reveló las pruebas1. “Es importante ventilarlo todo, están muy molestos algunos del Conacyt, los machuchones´(…) Espero que se ventile este asunto”, continuó López Obrador.
+“Hay mafias en todo, hasta en la ciencia. Y aunque parezca increíble... en la cultura, en la intelectualidad, hay cotos de poder que eran intocables, con sueldos elevadísimos”, declaraba el presidente de la república, Andrés Manuel López Obrador, frente a los cientos de periodistas que asisten todos los días a su conferencia de prensa matutina. Ese día, nadie objetó. El presidente tenía la razón, pero nadie reveló las pruebas[1](Video de AMLO. AMLO señala a “mafia de la ciencia”. El Universal. 14 de febrero de 2019.). “Es importante ventilarlo todo, están muy molestos algunos del Conacyt, los machuchones´(…) Espero que se ventile este asunto”, continuó López Obrador.
 
 La denuncia del presidente ocurrió en junio de 2019, pero no fue hasta el siguiente mes que Conacyt emitió el comunicado de prensa en el que se anunciaba que el recorte afectaría al Foro A.C. En el documento oficial se advertía que esta asociación duplicaba funciones y se atribuía facultades por encima de la Ley de Ciencia y Tecnología. 
 
@@ -99,7 +99,7 @@ Pero Conacyt asegura en la notificación judicial que entregó el cheque a la se
 
 Desde que se presentó la demanda de amparo en contra de las autoridades de Conacyt, algunos de los académicos mencionados, como Julia Tagüeña Parga, han aparecido en diferentes plataformas informativas asegurando que la existencia de este foro es indispensable para el desarrollo científico de la nación.
 
-Aunque jamás explica los motivos de los viajes, ni declara a la prensa que sus sueldos superan a los de los gobernantes, la académica asegura que existe un esfuerzo desde enero del año en curso por “acabar con la A.C. sin que hiciéramos algo malo”, según dijo a los micrófonos de un diario de circulación nacional1.
+Aunque jamás explica los motivos de los viajes, ni declara a la prensa que sus sueldos superan a los de los gobernantes, la académica asegura que existe un esfuerzo desde enero del año en curso por “acabar con la A.C. sin que hiciéramos algo malo”, según dijo a los micrófonos de un diario de circulación nacional[2](https://www.razon.com.mx/cultura/ultima-noticia-no-hemos-hecho-nada-incorrecto-responde-foro-consultivo-al-conacyt/).
 
 Además de Tagüeña, se han localizado a otros personajes que hacen uso de seudónimos para atacar la nueva gestión. Aunque estos ataques están dirigidos en su mayoría al presidente López Obrador, perfiles como el de “Obrero Futurista, Pato McCuack o El antichairo justiciero”, aprovechan de las coyunturas mediáticas para golpear al Conacyt en redes sociales.
 
