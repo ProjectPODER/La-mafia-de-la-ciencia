@@ -103,7 +103,6 @@ Además de Tagüeña, se han localizado a otros personajes que hacen uso de seud
 
 
 
-Historia de Ricardo Balderas editada por Fernanda Hopenhaym.
+Historia de [Ricardo Balderas](https://twitter.com/Ricky_leaks_) editada por Fernanda Hopenhaym. 
 
 *Los datos analizados por PODER fueron tomados del más reciente informe financiero presentado por la propia Asociación Civil Foro Consultivo. Es importante mencionar que algunas facturas fueron retiradas del conteo final debido a que carecían de información en más de dos casillas importantes, además, la suma original es mayor debido a que en el proceso de captura de datos fueron retirados los montos utilizados en pagos al Servicio de Administración Tributaria (SAT).* 
-
