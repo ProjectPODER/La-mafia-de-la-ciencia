@@ -6,9 +6,6 @@ author: "Ricardo Balderas"
 order: 3
 ---
 
-{:.image-post}
-![CIBIOGEM. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/CIBIOGEM.jpg)
-
 Más de 80 millones de pesos han sido utilizados para promover el desarrollo de la industria de transgénicos en México, a través de estudios que fueron pagados con recursos del Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología (Fondo CIBIOGEM). Así lo reveló un análisis profundo del ejercicio financiero reportado de manera oficial por el Comité del Fondo y el Consejo Nacional de la Ciencia y Tecnología (Conacyt). Empresas como Monsanto son las principales beneficiadas.
 
 Estos datos, a los que tuvo acceso PODER y que fueron corroborados con los investigadores, revelan que los montos asignados a biotecnología y biotecnología agrícola rebasan, por mucho, a los proyectos financiados para la investigación en bioseguridad (investigaciones para prevenir catástrofes ambientales). “Hay un evidente sesgo”, denuncian investigadores.
@@ -16,6 +13,10 @@ Estos datos, a los que tuvo acceso PODER y que fueron corroborados con los inves
 En totalel 72% de las investigaciones pagadas con el erario fueron encaminadas al desarrollo de biotecnología y biotecnología agrícola. Es decir, existe una clara inclinación a la producción de transgénicos y uso de químicos que fortalece a las multinacionales, afectando así, a los cultivos orgánicos y tradicionales.
 
 A modo de ejemplos, podemos mencionar, el estudio denominado: “Plantas de maíz genéticamente modificadas con tolerancia a sequía”, elaborado por la Dra. Beatriz Xoconostle, con un evidente sesgo a favor de los transgénicos, y otra investigación que lleva por nombre: “Costos y beneficios de los cultivos genéticamente modificados en México: un análisis de equilibrio general”, por el Dr. Javier Becerril del Departamento de Economía de la Universidad Autónoma de Yucatán.
+
+
+{:.image-post}
+![CIBIOGEM. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/CIBIOGEM.jpg)
 
 El conflicto ahora retumba en la Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados (CIBIOGEM), encargada de ejercer el presupuesto del Fondo y cuyo objetivo original es la protección biogenética del país.
 
