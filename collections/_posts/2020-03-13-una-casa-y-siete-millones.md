@@ -90,7 +90,7 @@ La denuncia del presidente ocurrió en junio de 2019, pero no fue hasta el sigui
 
 En respuesta a la crisis financiera que estaba por configurarse, Adriana Guerra, en calidad de secretaria técnica, interpuso el amparo número I-1440/2019 con el que pretenden obligar al estado a seguir dando dinero público a su asociación privada. 
 
-En lo que se resolvía ese amparo interpuesto en contra de Conacyt, los científicos de la A.C. consiguieron, además, una Suspensión de Actos en los Tribunales Administrativos; es decir, les otorgaron un documento jurídico que ordenaba a las autoridades a entregarles dinero en tanto se resolvía el fondo del juicio de amaparo para la operación de la A.C..
+En lo que se resolvía ese amparo interpuesto en contra de Conacyt, los científicos de la A.C. consiguieron, además, una Suspensión de Actos en los Tribunales Administrativos; es decir, les otorgaron un documento jurídico que ordenaba a las autoridades a entregarles dinero en tanto se resolvía el fondo del juicio de amparo para la operación de la A.C..
 
 Tras el mandato de un juez, Conacyt entregó un cheque por siete millones de pesos a la secretaria técnica (también representante legal) del Foro A.C., Adriana Ramona Guerra Gómez, que no cobro, pero sí intentó hacerlo. Según narra, Conacyt debió entregar el cheque para poder ser depositado a la cuenta del Foro A.C., no obstante, el cheque se encontraba personalizado, por lo que cobrarlo configuraría el delito de desvío de recursos.
 
