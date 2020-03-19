@@ -30,7 +30,7 @@ El dinero utilizado por el Foro A.C. provenía principalmente de dos fondos: Fon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDp3kBnqq98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Puedes mover el cursor para ver en 360° las instalaciones.
+> *Puedes mover el cursor para ver la casa en 360°.
 
 {:.image-post}
 ![Historial de gasto. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/TABLA_GASTOS.png)
