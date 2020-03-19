@@ -7,7 +7,7 @@ order: 2
 ---
 
 
-“Proponer y opinar sobre las políticas nacionales, programas sectoriales y especial de apoyo a la investigación científica, al desarrollo tecnológico y a la innovación”, ésta frase aparece tanto en la Ley de Ciencia y Tecnología, en la Ley Orgánica y el Estatuto del Consejo Nacional de Ciencia y Tecnología (Conacyt) y en el Acta Constitutiva del Foro Consultivo de Ciencia y Tecnología, A. C. Esto  no tendría mayor relevancia de no ser porque esa A.C. no le pertenece al Conacyt, sino a un grupo de académicos que se han otorgado mandatos de “Institución Pública”, cuando estas funciones están reservadas al estado Mexicano. 
+“Proponer y opinar sobre las políticas nacionales, programas sectoriales y especial de apoyo a la investigación científica, al desarrollo tecnológico y a la innovación”, ésta frase aparece tanto en la Ley de Ciencia y Tecnología, en la Ley Orgánica y el Estatuto del Consejo Nacional de Ciencia y Tecnología (Conacyt) y en el Acta Constitutiva del Foro Consultivo de Ciencia y Tecnología, A. C. Esto  no tendría mayor relevancia de no ser porque esa A.C. no le pertenece al Conacyt, sino a un grupo de académicos que se han otorgado mandatos de “Institución Pública”, cuando estas funciones están reservadas al Estado Mexicano. 
 
 Esta suplantación de roles ha permitido que algunos de esos académicos vinculados al Partido Revolucionario Institucional (PRI) realicen funciones como la gestión de fondos públicos, el apoyo a los legisladores en la generación de leyes en materia científica y el ejercicio de fondos públicos para su presunto enriquecimiento.  
 
