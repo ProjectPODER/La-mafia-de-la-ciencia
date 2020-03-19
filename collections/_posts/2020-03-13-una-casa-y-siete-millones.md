@@ -3,7 +3,7 @@ layout: post
 title: Una casa y 7 millones
 image: CHEQUE.png
 author: "Ricardo Balderas"
-order: 1
+order: 2
 ---
 
 Durante el último año, los académicos que dirigen el Foro Consultivo Científico y Tecnológíco, A.C. reportaron en sus gastos viajes internacionales con destinos como “Bruselas, China, Colombia”, compras de carnes frías, desayunos en restaurantes lujosos como el Saks de Polanco, gasolina para autos, servicios de estacionamiento, equipos celulares, tintorería y líneas telefónicas particulares.
