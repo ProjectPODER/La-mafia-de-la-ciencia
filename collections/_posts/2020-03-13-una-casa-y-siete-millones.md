@@ -10,7 +10,7 @@ Durante el último año, los académicos que dirigen el Foro Consultivo Científ
 
 Pero el más alarmante de los gastos, que además es una irregularidad, es la adquisición de un inmueble. Cada año el Foro A.C., creada en 2002 y suplantando a lo que debió ser un órgano interno del Consejo Nacional de Ciencia y Tecnología (Conacyt), justificaba con su Informe Técnico Financiero en qué se gastaban el dinero del presupuesto que se asignaban. No obstante, en ninguno de los informes presentados por la A.C. reportaron haber adquirido fondos para comprar un inmueble. La compra ocurrió en 2015.
 
-Se trata de la casa ubicada en el domicilio Melchor Ocampo, Casa #305 (antes 107), en una  zona residencial del centro de la colonia Coyoacán, en la Ciudad de México. PODER posee copias selladas de los registros catastrales en los que efectivamente se revela que la Asociación Civil adquirió la superficie en carácter de propietaria el 16 de junio de 2015 (durante la coordinación de José de Jesús Franco López). Dicho acto contraviene a las reglas de operación de un órgano interno, pues en ningún momento se establece que debería tener personalidad jurídica (sin la cual es imposible realizar compras y contrataciones, entre otros actos). Para que el Foro pudiera realizar una compra de tal magnitud, se tuvo que conformar como A.C.
+Se trata de la casa ubicada en el domicilio Melchor Ocampo, Casa #305 (antes 107), en una  zona residencial del centro de la colonia Coyoacán, en la Ciudad de México. PODER posee copias selladas de los registros catastrales en los que efectivamente se revela que la Asociación Civil adquirió la superficie en carácter de propietaria el 16 de junio de 2015 (durante la coordinación de José de Jesús Franco López). Dicho acto contraviene a la Ley de Ciencia y Tecnología y la Ley Orgánica del Conacyt, pues en ningún momento se establece que debería tener personalidad jurídica (sin la cual es imposible realizar compras y contrataciones, entre otros actos). Para que el Foro pudiera realizar una compra de tal magnitud, se tuvo que conformar como A.C.
 
 Para averiguar el origen del dinero con el que se adquirió el inmueble, este medio de comunicación entrevistó a los últimos tres coordinadores generales de la A.C. que abarcaron un periodo de ocho años. En primer lugar se entrevistó a la doctora Gabriela Dutrénit, posteriormente a la doctora Julia Tagüeña Parga, también y finalmente al doctor José de Jesús Franco.
 
@@ -43,7 +43,7 @@ Julia Tagüeña renunció a su cargo como Directora Adjunta de Desarrollo Cient�
 
 Tagüeña asegura para este medio de comunicación que no aprovechó su cargo en Conacyt para enviar fondos al Foro A.C. que estaba por presidir. El último presupuesto a favor de dicha asociación civil fue de 50 millones de pesos.
 
-Los fondos fueron adjudicados de manera directa. Debido a que Conacyt tiene la facultad de recurrir al fondo institucional “FOINS” y que en sus reglas de operación se estipula que para su ejercicio no es necesario un proceso de licitación y que los recursos podrán otorgarse “por adjudicación directa del CTA (Comité Técnico de Adquisiciones)”, los académicos direccionaron dinero a su A.C. y lo ejercieron de manera directa y sin presentar proyecto ejecutivo. Lo cual, si bien no es ilegal, sí es opaco.
+Los fondos fueron adjudicados de manera directa. Debido a que Conacyt tiene la facultad de recurrir al fondo institucional “FOINS” y que en sus reglas de operación se estipula que para su ejercicio no es necesario un proceso de licitación y que los recursos podrán otorgarse “por adjudicación directa del CTA (Comité Técnico y de Administración)”, los académicos direccionaron dinero a su A.C. y lo ejercieron de manera directa y sin presentar proyecto ejecutivo. Lo cual, si bien no es ilegal, sí es opaco.
 
 En la entrevista, Julia Tagüeña Parga comenta que la actividad de ejercer recurso es común, por lo que enviar dinero a la A.C. no constituye una irregularidad.
 
@@ -84,13 +84,13 @@ La denuncia del presidente ocurrió en junio de 2019, pero no fue hasta el sigui
 
 En respuesta a la crisis financiera que estaba por configurarse, Adriana Guerra, en calidad de secretaria técnica, interpuso el amparo número I-1440/2019 con el que pretenden obligar al estado a seguir dando dinero público a su asociación privada. 
 
-En lo que se resolvía ese amparo interpuesto en contra de Conacyt, los científicos de la A.C. consiguieron, además, una Suspensión de Actos en los Tribunales Administrativos; es decir, les otorgaron un documento jurídico que ordenaba a las autoridades a entregarles dinero en tanto se resolvía el asunto en juicio por la liquidación de la A.C..
+En lo que se resolvía ese amparo interpuesto en contra de Conacyt, los científicos de la A.C. consiguieron, además, una Suspensión de Actos en los Tribunales Administrativos; es decir, les otorgaron un documento jurídico que ordenaba a las autoridades a entregarles dinero en tanto se resolvía el fondo del juicio de amaparo para la operación de la A.C..
 
 Tras el mandato de un juez, Conacyt entregó un cheque por siete millones de pesos a la secretaria técnica (también representante legal) del Foro A.C., Adriana Ramona Guerra Gómez, que no cobro, pero sí intentó hacerlo. Según narra, Conacyt debió entregar el cheque para poder ser depositado a la cuenta del Foro A.C., no obstante, el cheque se encontraba personalizado, por lo que cobrarlo configuraría el delito de desvío de recursos.
 
 El cheque en cuestión, del que PODER posee una copia, quedó firmado por Guerra Gómez el 21 de noviembre de 2019 a las 13:48 de la tarde. Según se puede leer en el documento, el motivo de depósito que ella presentó al banco fue el de “abono en cuenta”. Finalmente el cheque fue entregado al juzgado por haber decidido no cobrarlo. 
 
-Pero Conacyt asegura en la notificación judicial que entregó el cheque a la secretaria técnica porque en la demanda interpuesta por el Foro (a nombre de Adriana Ramona), se estipuló en los actos reclamados que ella era la persona que debía gestionar los fondos. 
+Pero Conacyt asegura en la notificación judicial que entregó el cheque a la secretaria técnica porque en la demanda interpuesta por el Foro (a nombre de Adriana Ramona), se estipuló en los actos reclamados que por conducto de ella era la persona que debía gestionar los fondos. 
 
 {:.image-post}
 ![Entrega del dinero. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/CHEQUE.png)
