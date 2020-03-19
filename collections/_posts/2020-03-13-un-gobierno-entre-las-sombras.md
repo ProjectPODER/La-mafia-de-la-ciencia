@@ -22,7 +22,7 @@ Cuando nace la Ley de Ciencia y Tecnología (LCyT) y la Ley Orgánica del Conacy
 
 Pero un par de meses después, el 27 de septiembre de ese mismo año, cuando la Ley de Ciencia y Tecnología ya había sido aprobada en el Congreso, Patricia Zúñiga Cendejas, quien quedaría como Secretaria Técnica del Foro Consultivo, constituido por dichas leyes, y José Antonio de la Peña Mena, entonces Coordinador General, crearon frente al notario público Ángel Gilberto Adame López, la entidad jurídica Foro Consultivo de Ciencia y Tecnología, A.C. (Foro A.C.).
 
-En contra de la LCyT, dos meses más tarde, las autoridades en turno del Conacyt promovieron un estatuto que le dio validez temporal a la A.C.
+En contra de la LCyT, dos meses más tarde, las autoridades en turno del Conacyt promovieron un estatuto que pretendió validar temporalmente a la A.C.
 
 Zuñiga Cendejas y De la Peña no cumplieron con la ley, sino que se basaron en un estatuto impulsado durante su administración y crearon una asociación que suplantó funciones del Estado. Pero lo que realmente se pensó para dicho foro, era ser un órgano interno dentro de Conacyt, por lo que la existencia de dicha A.C. usurpa el nombre y funciones estipuladas para el Órgano Interno y el notario público no reparó en esta suplantación. 
 
