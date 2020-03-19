@@ -6,6 +6,9 @@ author: "Ricardo Balderas"
 order: 3
 ---
 
+{:.image-post}
+![CIBIOGEM. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/CIBIOGEM.jpg)
+
 Más de 80 millones de pesos han sido utilizados para promover el desarrollo de la industria de transgénicos en México, a través de estudios que fueron pagados con recursos del Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología (Fondo CIBIOGEM). Así lo reveló un análisis profundo del ejercicio financiero reportado de manera oficial por el Comité del Fondo y el Consejo Nacional de la Ciencia y Tecnología (Conacyt). Empresas como Monsanto son las principales beneficiadas.
 
 Estos datos, a los que tuvo acceso PODER y que fueron corroborados con los investigadores, revelan que los montos asignados a biotecnología y biotecnología agrícola rebasan, por mucho, a los proyectos financiados para la investigación en bioseguridad (investigaciones para prevenir catástrofes ambientales). “Hay un evidente sesgo”, denuncian investigadores.
@@ -18,7 +21,7 @@ El conflicto ahora retumba en la Comisión Intersecretarial de Bioseguridad de l
 
 “En las administraciones anteriores de la CIBIOGEM había un sesgo muy cargado, muy evidente hacia la biotecnología, cuando el objeto de esta comisión es la bioseguridad”, dijo para PODER Emmanuel González Ortega, encargado de despacho de la Secretaría Ejecutiva de la CIBIOGEM.
 
-La rebelión antitransgénicos
+## La rebelión antitransgénicos
 
 La rebelión comenzó desde las aulas. El 15 de septiembre del año en curso, en mitad de un foro denominado “Ciencia por México”, los académicos asistentes se pronunciaron públicamente en contra del abuso de las producciones en masa de biotecnología y sus consecuencias en un escenario de “crisis climática”. El hecho ocurrió ante centenares de asistentes entre los que destacan miembros de los centros de estudios más destacados del país, como el IPN, la UNAM, la UAM y el Conacyt. 
 
@@ -28,7 +31,10 @@ Por su parte, el doctor Manuel Rojo Leyva, director en el Instituto Nacional de 
 
 “Los cultivos transgénicos agudizan el modelo industrial de agricultura capitalista, caracterizado por privilegiar el monocultivo de alto rendimiento, sin importar sus efectos ambientales (…) estamos padeciendo las consecuencias en la contaminación de suelos, de agua, así como la erosión genética y la exclusión social. Estamos en tiempos de una crisis ambiental tremenda y urge buscar un nuevo paradigma agrícola, que sea sustentable y que sea diverso e incluyente de las comunidades campesinas e indígenas”, sostuvo.
 
-El sesgo en el aparato científico
+{:.image-post}
+![PANADERÍA. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/PANADERÍA.jpg)
+
+## El sesgo en el aparato científico
 
 En el reportaje denominado: “El cártel de las Semillas”, también se da cuenta de una red que promocionaba investigación a favor de la producción transgénica con estudios que se realizaron en escalas muy bajas (nunca mayor a un hectárea) y sin las medidas de control recomendadas. Asimismo, la empresa transnacional Monsanto, logró traficar con semillas genéticamente modificadas con ayuda del gobierno, a través de programas de fomento al campo.
 
@@ -49,7 +55,6 @@ Los ataques provienen principalmente de la red social Twitter, donde descalifica
 Estos ataques siempre fueron dirigidos desde perfiles con pocos seguidores y que no poseen antecedentes de interés en la investigación científica, por lo que podría tratarse de lo que coloquialmente de identifica como bots.
 
 
-Edición por: # Eduard Martín Borregón
 
 Para ver la nota completa *[da click aquí](https://www.rindecuentas.org/reportajes/2019/09/25/el-negocio-de-los-estudios-pro-transgenico/)
 
