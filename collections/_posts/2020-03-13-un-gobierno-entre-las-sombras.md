@@ -26,7 +26,7 @@ Pero un par de meses después, el 27 de septiembre de ese mismo año, cuando la 
 
 Zuñiga Cendejas y De la Peña no cumplieron con la ley, sino que se basaron en un estatuto impulsado durante su administración y crearon una asociación que suplantó funciones del Estado. Pero lo que realmente se pensó para dicho foro, era ser un órgano interno dentro de Conacyt, por lo que la existencia de dicha A.C. usurpa el nombre y funciones estipuladas para el Órgano Interno y el notario público no reparó en esta suplantación. 
 
-En el artículo 36 de la LCyT se habla además del “Foro Consultivo” como un Órgano Autónomo, es decir, un espacio legal similar al que representan algunas áreas del Instituto Nacional Electoral (INE) o del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), que si bien son autónomas, sí se encuentran estipuladas debidamente dentro de los organigramas de esas instituciones.
+En el artículo 36 de la LCyT se habla además del “Foro Consultivo” como un Órgano Autónomo, es decir, un espacio legal similar al que representan algunas áreas del Instituto Nacional Electoral (INE) o del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), que si bien son autónomas, sí se encuentran estipuladas debidamente dentro de los organigramas de esas instituciones. Pero el Foro A.C. no es eso, legalmente es únicamente un contrato entre particulares.
 
 {:.image-post}
 ![Artículo 36. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/LEY DE CIENCIA Y TECNOLOGÍA ART.36.png)
