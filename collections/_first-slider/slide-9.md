@@ -3,7 +3,7 @@ title: El Foro se ampara contra el Concyt
 image: AMPARO.jpg
 ---
 
- # El Foro se ampara contra el Concyt
+# El Foro se ampara contra el Concyt
 
 26 de septiembre de 2019-Conacyt es notificado del juicio de Amparo 1440/2019 en el que Adriana Ramona Guerra Gómez, secretaria técnica del Foro, A.C., en su carácter de primer interesada, denuncia al órgano de ciencia ante el juez décimo de distrito en materia administrativa en la Ciudad de México. La persona que presentó la demanda argumenta que Conacyt aplicó mal las instrucciones de un oficio entregado en el mes de agosto pero no especifican de qué se trata el papel.
 
