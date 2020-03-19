@@ -63,11 +63,19 @@
     .home-content {
 
         h1 {
-            font-size: 60px;
-            line-height: 65px;
+            font-size: 45px;
+            line-height: 50px;
+            margin-bottom: 1rem;
         }
         p {
-            font-size: 1.4rem;
+            font-size: 1rem;
+        }
+        a {
+            font-size: 1.1rem;
+            padding: 10px 20px;
+        }
+        .mt4 {
+            margin-top: 0;
         }
     }
 }
