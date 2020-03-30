@@ -6,6 +6,7 @@ author: "Ricardo Balderas"
 order: 1
 ---
 
+*Actualización 30/marzo/202*
 
 “Proponer y opinar sobre las políticas nacionales, programas sectoriales y especial de apoyo a la investigación científica, al desarrollo tecnológico y a la innovación”, ésta frase aparece tanto en la Ley de Ciencia y Tecnología, en la Ley Orgánica y el Estatuto del Consejo Nacional de Ciencia y Tecnología (Conacyt) y en el Acta Constitutiva del Foro Consultivo de Ciencia y Tecnología, A. C. Esto  no tendría mayor relevancia de no ser porque esa A.C. no le pertenece al Conacyt, sino a un grupo de académicos que se han otorgado mandatos de “Institución Pública”, cuando estas funciones están reservadas al Estado Mexicano. 
 
@@ -67,7 +68,10 @@ La versión de los académicos dista mucho de lo estipulado en los expedientes j
   <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/C38yCRh27kA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+El 30 de marzo de 2020 la directora del Consejo Nacional de Ciencia y Tecnología,la doctora María Elena Álvarez Buylla Roces, amitió mediante un comunicado interno que reconocen la existencia del problema ocasionado por la A.C. relacionado a la suplantación de funciones del Estado. Asimismo denunciann que la A.C. participó indevidamente en la deliberación y decisión de multiples actos de autoridad y política pública. En el mismo documento se asegura que la existencia de dicha A.C. configura una práctica sin fundamento legal.
 
+{:.image-post}
+![Carta Conacyt. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/COMUNICADO_BUYLLA.png)
 
 
 Historia de [Ricardo Balderas](https://twitter.com/Ricky_leaks_) editada por Fernanda Hopenhaym. 
