@@ -68,7 +68,7 @@ La versión de los académicos dista mucho de lo estipulado en los expedientes j
   <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/C38yCRh27kA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-El 30 de marzo de 2020 la directora del Consejo Nacional de Ciencia y Tecnología,la doctora María Elena Álvarez Buylla Roces, amitió mediante un comunicado interno que reconocen la existencia del problema ocasionado por la A.C. relacionado a la suplantación de funciones del Estado. Asimismo denunciann que la A.C. participó indevidamente en la deliberación y decisión de multiples actos de autoridad y política pública. En el mismo documento se asegura que la existencia de dicha A.C. configura una práctica sin fundamento legal.
+Luego de la publicación de este reportaje, el 30 de marzo de 2020, la directora del Consejo Nacional de Ciencia y Tecnología,la doctora María Elena Álvarez Buylla Roces admitió mediante un comunicado interno la existencia del problema ocasionado por la A.C. relacionado a la suplantación de funciones del Estado. Asimismo denuncian que la A.C. participó indevidamente en la deliberación y decisión de multiples actos de autoridad y política pública. Finalmente, en ese mismo documento, se asegura que la existencia de dicha A.C. configura una práctica sin fundamento legal y que las autoridades se encuentran tomando cartas en el asunto.
 
 {:.image-post}
 ![Carta Conacyt. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/COMUNICADO_BUYLLA.png)
