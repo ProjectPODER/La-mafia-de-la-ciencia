@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuevo blindaje ante desfalcos: Conacyt
+title: Nuevo blindaje ante desfalcos
 author: "Ricardo Balderas"
 image: 05_Nuevas_bases.jpg
 order: 6
