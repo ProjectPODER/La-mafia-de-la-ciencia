@@ -12,7 +12,7 @@ Regresan legalidad al Foro Consultivo del Conacyt. Meses después de la investig
 En total, son cuatro los documentos jurídicos que rigen la legalidad del Instituto de Ciencias: el Estatuto Orgánico General, la Ley Orgánica de Conacyt, la Ley de Ciencia y Tecnología, y finalmente, la Constitución Política. El Conacyt, al poseer diversos organismos de la misma índole que el Foro, es el único responsable de emitir los documentos que regulen a estos, en este caso, las Bases Generales. 
 
 {:.image-post}
-![Carta Conacyt. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/05_Nuevas_bases.png)
+![Carta Conacyt. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/)
 
 La dependencia en manos de María Elena Álvarez-Buylla Roces, celebró hoy una junta con la mesa directiva del Foro Consultivo Científico y Tecnológico (el que sí está previsto en la Ley) en la que, entre otros temas, aprobaron en conjunto las nuevas Bases Generales de dicho Órgano Interno Colegiado del Conacyt, con las que dan fin administrativo al escándalo ocurrido a inicios de la actual administración.
 
