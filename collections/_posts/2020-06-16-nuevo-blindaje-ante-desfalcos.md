@@ -5,7 +5,7 @@ author: "Ricardo Balderas"
 image: 05_Nuevas_bases.png
 order: 5
 ---
-_Actualización del juaves 16 de Julio de 2020_
+_Actualización del jueves 16 de Julio de 2020_
 
 Regresan legalidad al Foro Consultivo del Conacyt. Meses después de la investigación realizada por PODER con información de Méxicoleaks, el Consejo Nacional de Ciencia y Tecnología (Conacyt) desaparece de raíz al autodenominado Foro Consultivo Científico y Tecnológico, A.C. modificando las Bases Generales que dieron pie al desfalco señalado por la actual titular María Elena Álvarez-Buylla Roces.  
 
