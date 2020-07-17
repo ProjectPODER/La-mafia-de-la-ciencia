@@ -27,9 +27,9 @@ El conflicto con las Bases Generales anteriores que Conacyt pretende resolver, r
 
 En el nuevo documento en manos de este medio de comunicación, se puede leer también que el instituto aclara que en ninguna parte de la ley o sus artículos transitorios se prevé que el foro sea una Asociación Civil, tal y como ocurrió hasta la llegada de la nueva administración. También advierte que “ninguna persona moral de derecho privado puede pretender ser un órgano público”. 
 
-Dicho acto, tal y como lo publicó PODER en [La Mafia de la Ciencia] (https://lamafiadelaciencia.poderlatam.org/) en marzo de este año, configura un hecho de suplantación de funciones propias del Estado Mexicano. El Foro Consultivo que sí está contemplado en la Ley, según lo argumentado en el penúltimo párrafo del artículo 36 de la Ley de Ciencia y Tecnología, se trata de un órgano interno del Conacyt, que no tiene, y no debió tener, personalidad jurídica dado que es el propio Conacyt el único con las facultades para representarlo. 
+Dicho acto, tal y como lo publicó PODER en [La Mafia de la Ciencia](https://lamafiadelaciencia.poderlatam.org/) en marzo de este año, configura un hecho de suplantación de funciones propias del Estado Mexicano. El Foro Consultivo que sí está contemplado en la Ley, según lo argumentado en el penúltimo párrafo del artículo 36 de la Ley de Ciencia y Tecnología, se trata de un órgano interno del Conacyt, que no tiene, y no debió tener, personalidad jurídica dado que es el propio Conacyt el único con las facultades para representarlo. 
 
 En este complicado contexto es que ahora el Conacyt finalmente anuló las bases aprobadas por la administración de Cabrero Mendoza, que permitieron que los integrantes de la asociación civil autodenominada Foro A.C. recibieran, en algunos casos, percepciones superiores a las de todos los gobernadores del país. Tal y como ocurrió con Adriana Guerra Gómez, última secretaria técnica de la A.C. quien además sostiene un juicio en contra de Conacyt para preservar esos privilegios.
 
-
+*Mueve las flechas en el video con el cursor*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDp3kBnqq98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
