@@ -24,7 +24,7 @@ Se consultó informes del Departamento de Investigación de PODER, estudios y da
 
 **Investigación, narrativa y reportajes**: Ricardo Balderas.
 
-**Coordinación de proyecto**: Claudia Ocaranza. 
+**Coordinación de proyecto**: Claudia Ocaranza y Eduard Martín-Borregón. 
 
 **Desarrollo Front End**: Marisol Carrillo.
 
