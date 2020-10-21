@@ -25,7 +25,6 @@ A decir del investigador Erik Cruz en su tesis sobre análisis de la divulgació
 
 “La definición de la estructura interna de la AIC, el caso de esta agencia es particular porque existen dos propuestas de organigrama: uno planteado desde el Conacyt, en donde se ubica a esta organización como parte de la Unidad Técnica de Proyectos, Comunicación e Informática Estratégica, y otro, planteado por la empresa a cargo, en donde se instaura la jerarquización interna de la agencia. A decir verdad, de este último no se tienen evidencias documentales para revelar el organigrama” explica el especialista1.
 
-[FOTOS CONTRATOS]
 {:.image-post}
 ![Contratos entre SCD y AIC]({{ site.baseurl }}/assets/img/CONTRATOS.jpg)
 
